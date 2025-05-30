@@ -9,6 +9,8 @@
 -npm install 
 npm install tailwind css
 
+npm install next-app
+
 
 
 
